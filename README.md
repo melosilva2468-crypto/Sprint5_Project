@@ -16,7 +16,7 @@ Este projeto desenvolve um aplicativo web com Streamlit para explorar dados de a
 - Streamlit
 
 ## Aplicativo publicado
-Acesse o aplicativo web: https://sprint5-project-0vj1.onrender.com
+Acesse o aplicativo web: https://sprint5-project-0vjj.onrender.com
 
 ## Repositório
 O código-fonte deste projeto está disponível neste repositório do GitHub.
